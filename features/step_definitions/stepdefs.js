@@ -4,7 +4,6 @@ const chai = require("chai");
 const chaiAsPromised = require("chai-as-promised");
 chai.use(chaiAsPromised);
 const expect = chai.expect;
-const should = require('should');
 
 defineSupportCode(function ({ Given, Then, When, After }) {
     Given(/^the user go to "([^"]*)"$/, async function (site) {

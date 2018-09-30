@@ -1,6 +1,6 @@
 Feature: Checking our calculator with valid data
 
-  Scenario Outline: Multiplication of the 2 valid input data
+  Scenario Outline: Action with the 2 valid input data
     Given the user go to "http://juliemr.github.io/protractor-demo/"
     When the user inputs <value1> in the first input field
     Then the user inputs <value2> in the second input field
