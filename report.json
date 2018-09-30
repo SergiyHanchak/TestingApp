@@ -29,7 +29,7 @@
         "emitterEvent": "testPass",
         "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 629,
+        "durationMillis": 615,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 4,
@@ -44,7 +44,7 @@
         "emitterEvent": "testPass",
         "name": "When the user inputs 5 in the first input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 83,
+        "durationMillis": 73,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 5,
@@ -59,7 +59,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user inputs 6 in the second input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 54,
+        "durationMillis": 55,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 6,
@@ -74,7 +74,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user choose 0 from the dropdown list",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 46,
+        "durationMillis": 49,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 7,
@@ -89,7 +89,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user press the gobutton",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 67,
+        "durationMillis": 70,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 8,
@@ -104,7 +104,7 @@
         "emitterEvent": "testPass",
         "name": "Then the result 11 value is shown on the main page",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1844,
+        "durationMillis": 1878,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 9,
@@ -122,7 +122,7 @@
         {
           "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 629,
+          "durationMillis": 615,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 4,
@@ -139,7 +139,7 @@
         {
           "name": "When the user inputs 5 in the first input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 83,
+          "durationMillis": 73,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 5,
@@ -156,7 +156,7 @@
         {
           "name": "Then the user inputs 6 in the second input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 54,
+          "durationMillis": 55,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 6,
@@ -173,7 +173,7 @@
         {
           "name": "Then the user choose 0 from the dropdown list",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 46,
+          "durationMillis": 49,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 7,
@@ -190,7 +190,7 @@
         {
           "name": "Then the user press the gobutton",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 67,
+          "durationMillis": 70,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 8,
@@ -207,7 +207,7 @@
         {
           "name": "Then the result 11 value is shown on the main page",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1844,
+          "durationMillis": 1878,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 9,
@@ -220,7 +220,7 @@
         }
       ]
     ],
-    "duration": 2724
+    "duration": 2741
   },
   {
     "description": "Action with the 2 valid input data",
@@ -252,7 +252,7 @@
         "emitterEvent": "testPass",
         "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 83,
+        "durationMillis": 222,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 4,
@@ -267,7 +267,7 @@
         "emitterEvent": "testPass",
         "name": "When the user inputs 10 in the first input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 45,
+        "durationMillis": 51,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 5,
@@ -312,7 +312,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user press the gobutton",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 54,
+        "durationMillis": 57,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 8,
@@ -327,7 +327,7 @@
         "emitterEvent": "testPass",
         "name": "Then the result 22 value is shown on the main page",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1833,
+        "durationMillis": 1920,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 9,
@@ -345,7 +345,7 @@
         {
           "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 83,
+          "durationMillis": 222,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 4,
@@ -362,7 +362,7 @@
         {
           "name": "When the user inputs 10 in the first input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 45,
+          "durationMillis": 51,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 5,
@@ -413,7 +413,7 @@
         {
           "name": "Then the user press the gobutton",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 54,
+          "durationMillis": 57,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 8,
@@ -430,7 +430,7 @@
         {
           "name": "Then the result 22 value is shown on the main page",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1833,
+          "durationMillis": 1920,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 9,
@@ -443,7 +443,7 @@
         }
       ]
     ],
-    "duration": 2106
+    "duration": 2341
   },
   {
     "description": "Action with the 2 valid input data",
@@ -475,7 +475,7 @@
         "emitterEvent": "testPass",
         "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 217,
+        "durationMillis": 306,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 4,
@@ -490,7 +490,7 @@
         "emitterEvent": "testPass",
         "name": "When the user inputs 15 in the first input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 48,
+        "durationMillis": 69,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 5,
@@ -505,7 +505,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user inputs 3 in the second input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 50,
+        "durationMillis": 65,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 6,
@@ -520,7 +520,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user choose 3 from the dropdown list",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 40,
+        "durationMillis": 53,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 7,
@@ -535,7 +535,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user press the gobutton",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 61,
+        "durationMillis": 81,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 8,
@@ -550,7 +550,7 @@
         "emitterEvent": "testPass",
         "name": "Then the result 45 value is shown on the main page",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1872,
+        "durationMillis": 1866,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 9,
@@ -568,7 +568,7 @@
         {
           "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 217,
+          "durationMillis": 306,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 4,
@@ -585,7 +585,7 @@
         {
           "name": "When the user inputs 15 in the first input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 48,
+          "durationMillis": 69,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 5,
@@ -602,7 +602,7 @@
         {
           "name": "Then the user inputs 3 in the second input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 50,
+          "durationMillis": 65,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 6,
@@ -619,7 +619,7 @@
         {
           "name": "Then the user choose 3 from the dropdown list",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 40,
+          "durationMillis": 53,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 7,
@@ -636,7 +636,7 @@
         {
           "name": "Then the user press the gobutton",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 61,
+          "durationMillis": 81,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 8,
@@ -653,7 +653,7 @@
         {
           "name": "Then the result 45 value is shown on the main page",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1872,
+          "durationMillis": 1866,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 9,
@@ -666,7 +666,7 @@
         }
       ]
     ],
-    "duration": 2288
+    "duration": 2440
   },
   {
     "description": "Action with the 2 valid input data",
@@ -698,7 +698,7 @@
         "emitterEvent": "testPass",
         "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 76,
+        "durationMillis": 80,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 4,
@@ -713,7 +713,7 @@
         "emitterEvent": "testPass",
         "name": "When the user inputs 10 in the first input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 45,
+        "durationMillis": 46,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 5,
@@ -728,7 +728,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user inputs 10 in the second input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 50,
+        "durationMillis": 49,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 6,
@@ -743,7 +743,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user choose 1 from the dropdown list",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 37,
+        "durationMillis": 39,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 7,
@@ -758,7 +758,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user press the gobutton",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 65,
+        "durationMillis": 92,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 8,
@@ -773,7 +773,7 @@
         "emitterEvent": "testPass",
         "name": "Then the result 1 value is shown on the main page",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1835,
+        "durationMillis": 1867,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 9,
@@ -791,7 +791,7 @@
         {
           "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 76,
+          "durationMillis": 80,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 4,
@@ -808,7 +808,7 @@
         {
           "name": "When the user inputs 10 in the first input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 45,
+          "durationMillis": 46,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 5,
@@ -825,7 +825,7 @@
         {
           "name": "Then the user inputs 10 in the second input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 50,
+          "durationMillis": 49,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 6,
@@ -842,7 +842,7 @@
         {
           "name": "Then the user choose 1 from the dropdown list",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 37,
+          "durationMillis": 39,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 7,
@@ -859,7 +859,7 @@
         {
           "name": "Then the user press the gobutton",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 65,
+          "durationMillis": 92,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 8,
@@ -876,7 +876,7 @@
         {
           "name": "Then the result 1 value is shown on the main page",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1835,
+          "durationMillis": 1867,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 9,
@@ -889,7 +889,7 @@
         }
       ]
     ],
-    "duration": 2108
+    "duration": 2173
   },
   {
     "description": "Action with the 2 valid input data",
@@ -921,7 +921,7 @@
         "emitterEvent": "testPass",
         "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 235,
+        "durationMillis": 81,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 4,
@@ -936,7 +936,7 @@
         "emitterEvent": "testPass",
         "name": "When the user inputs 4 in the first input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 44,
+        "durationMillis": 45,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 5,
@@ -951,230 +951,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user inputs 2 in the second input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 48,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 6,
-          "column": 5
-        },
-        "progress": {
-          "step": 3,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user choose 2 from the dropdown list",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 38,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 7,
-          "column": 5
-        },
-        "progress": {
-          "step": 4,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user press the gobutton",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 62,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 8,
-          "column": 5
-        },
-        "progress": {
-          "step": 5,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the result 0 value is shown on the main page",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1857,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 9,
-          "column": 5
-        },
-        "progress": {
-          "step": 6,
-          "steps": 6
-        }
-      }
-    ],
-    "emitToTestRunner": [
-      [
-        "testPass",
-        {
-          "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 235,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 4,
-            "column": 5
-          },
-          "progress": {
-            "step": 1,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "When the user inputs 4 in the first input field",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 44,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 5,
-            "column": 5
-          },
-          "progress": {
-            "step": 2,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user inputs 2 in the second input field",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 48,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 6,
-            "column": 5
-          },
-          "progress": {
-            "step": 3,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user choose 2 from the dropdown list",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 38,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 7,
-            "column": 5
-          },
-          "progress": {
-            "step": 4,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user press the gobutton",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 62,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 8,
-            "column": 5
-          },
-          "progress": {
-            "step": 5,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the result 0 value is shown on the main page",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1857,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 9,
-            "column": 5
-          },
-          "progress": {
-            "step": 6,
-            "steps": 6
-          }
-        }
-      ]
-    ],
-    "duration": 2285
-  },
-  {
-    "description": "Action with the 2 valid input data",
-    "assertions": [
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      }
-    ],
-    "events": [
-      {
-        "emitterEvent": "testPass",
-        "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 201,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 4,
-          "column": 5
-        },
-        "progress": {
-          "step": 1,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "When the user inputs 8 in the first input field",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 44,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 5,
-          "column": 5
-        },
-        "progress": {
-          "step": 2,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user inputs 5 in the second input field",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 44,
+        "durationMillis": 50,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 6,
@@ -1204,7 +981,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user press the gobutton",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 58,
+        "durationMillis": 57,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 8,
@@ -1217,9 +994,9 @@
       },
       {
         "emitterEvent": "testPass",
-        "name": "Then the result 3 value is shown on the main page",
+        "name": "Then the result 0 value is shown on the main page",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1858,
+        "durationMillis": 1873,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 9,
@@ -1237,7 +1014,7 @@
         {
           "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 201,
+          "durationMillis": 81,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 4,
@@ -1252,9 +1029,9 @@
       [
         "testPass",
         {
-          "name": "When the user inputs 8 in the first input field",
+          "name": "When the user inputs 4 in the first input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 44,
+          "durationMillis": 45,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 5,
@@ -1269,9 +1046,9 @@
       [
         "testPass",
         {
-          "name": "Then the user inputs 5 in the second input field",
+          "name": "Then the user inputs 2 in the second input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 44,
+          "durationMillis": 50,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 6,
@@ -1289,229 +1066,6 @@
           "name": "Then the user choose 2 from the dropdown list",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
           "durationMillis": 43,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 7,
-            "column": 5
-          },
-          "progress": {
-            "step": 4,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user press the gobutton",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 58,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 8,
-            "column": 5
-          },
-          "progress": {
-            "step": 5,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the result 3 value is shown on the main page",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1858,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 9,
-            "column": 5
-          },
-          "progress": {
-            "step": 6,
-            "steps": 6
-          }
-        }
-      ]
-    ],
-    "duration": 2248
-  },
-  {
-    "description": "Action with the 2 valid input data",
-    "assertions": [
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      }
-    ],
-    "events": [
-      {
-        "emitterEvent": "testPass",
-        "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 230,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 4,
-          "column": 5
-        },
-        "progress": {
-          "step": 1,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "When the user inputs 100 in the first input field",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 51,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 5,
-          "column": 5
-        },
-        "progress": {
-          "step": 2,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user inputs 1 in the second input field",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 49,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 6,
-          "column": 5
-        },
-        "progress": {
-          "step": 3,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user choose 4 from the dropdown list",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 41,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 7,
-          "column": 5
-        },
-        "progress": {
-          "step": 4,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user press the gobutton",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 57,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 8,
-          "column": 5
-        },
-        "progress": {
-          "step": 5,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the result 99 value is shown on the main page",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1837,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 9,
-          "column": 5
-        },
-        "progress": {
-          "step": 6,
-          "steps": 6
-        }
-      }
-    ],
-    "emitToTestRunner": [
-      [
-        "testPass",
-        {
-          "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 230,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 4,
-            "column": 5
-          },
-          "progress": {
-            "step": 1,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "When the user inputs 100 in the first input field",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 51,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 5,
-            "column": 5
-          },
-          "progress": {
-            "step": 2,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user inputs 1 in the second input field",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 49,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 6,
-            "column": 5
-          },
-          "progress": {
-            "step": 3,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user choose 4 from the dropdown list",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 41,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 7,
@@ -1543,9 +1097,9 @@
       [
         "testPass",
         {
-          "name": "Then the result 99 value is shown on the main page",
+          "name": "Then the result 0 value is shown on the main page",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1837,
+          "durationMillis": 1873,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 9,
@@ -1558,7 +1112,7 @@
         }
       ]
     ],
-    "duration": 2266
+    "duration": 2149
   },
   {
     "description": "Action with the 2 valid input data",
@@ -1590,7 +1144,453 @@
         "emitterEvent": "testPass",
         "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 218,
+        "durationMillis": 232,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 4,
+          "column": 5
+        },
+        "progress": {
+          "step": 1,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "When the user inputs 8 in the first input field",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 46,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 5,
+          "column": 5
+        },
+        "progress": {
+          "step": 2,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user inputs 5 in the second input field",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 48,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 6,
+          "column": 5
+        },
+        "progress": {
+          "step": 3,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user choose 2 from the dropdown list",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 43,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 7,
+          "column": 5
+        },
+        "progress": {
+          "step": 4,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user press the gobutton",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 65,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 8,
+          "column": 5
+        },
+        "progress": {
+          "step": 5,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the result 3 value is shown on the main page",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 2001,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 9,
+          "column": 5
+        },
+        "progress": {
+          "step": 6,
+          "steps": 6
+        }
+      }
+    ],
+    "emitToTestRunner": [
+      [
+        "testPass",
+        {
+          "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 232,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 4,
+            "column": 5
+          },
+          "progress": {
+            "step": 1,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "When the user inputs 8 in the first input field",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 46,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 5,
+            "column": 5
+          },
+          "progress": {
+            "step": 2,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user inputs 5 in the second input field",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 48,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 6,
+            "column": 5
+          },
+          "progress": {
+            "step": 3,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user choose 2 from the dropdown list",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 43,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 7,
+            "column": 5
+          },
+          "progress": {
+            "step": 4,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user press the gobutton",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 65,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 8,
+            "column": 5
+          },
+          "progress": {
+            "step": 5,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the result 3 value is shown on the main page",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 2001,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 9,
+            "column": 5
+          },
+          "progress": {
+            "step": 6,
+            "steps": 6
+          }
+        }
+      ]
+    ],
+    "duration": 2437
+  },
+  {
+    "description": "Action with the 2 valid input data",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "events": [
+      {
+        "emitterEvent": "testPass",
+        "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 98,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 4,
+          "column": 5
+        },
+        "progress": {
+          "step": 1,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "When the user inputs 100 in the first input field",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 52,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 5,
+          "column": 5
+        },
+        "progress": {
+          "step": 2,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user inputs 1 in the second input field",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 44,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 6,
+          "column": 5
+        },
+        "progress": {
+          "step": 3,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user choose 4 from the dropdown list",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 42,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 7,
+          "column": 5
+        },
+        "progress": {
+          "step": 4,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user press the gobutton",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 55,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 8,
+          "column": 5
+        },
+        "progress": {
+          "step": 5,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the result 99 value is shown on the main page",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 1985,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 9,
+          "column": 5
+        },
+        "progress": {
+          "step": 6,
+          "steps": 6
+        }
+      }
+    ],
+    "emitToTestRunner": [
+      [
+        "testPass",
+        {
+          "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 98,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 4,
+            "column": 5
+          },
+          "progress": {
+            "step": 1,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "When the user inputs 100 in the first input field",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 52,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 5,
+            "column": 5
+          },
+          "progress": {
+            "step": 2,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user inputs 1 in the second input field",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 44,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 6,
+            "column": 5
+          },
+          "progress": {
+            "step": 3,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user choose 4 from the dropdown list",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 42,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 7,
+            "column": 5
+          },
+          "progress": {
+            "step": 4,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user press the gobutton",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 55,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 8,
+            "column": 5
+          },
+          "progress": {
+            "step": 5,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the result 99 value is shown on the main page",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 1985,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 9,
+            "column": 5
+          },
+          "progress": {
+            "step": 6,
+            "steps": 6
+          }
+        }
+      ]
+    ],
+    "duration": 2277
+  },
+  {
+    "description": "Action with the 2 valid input data",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "events": [
+      {
+        "emitterEvent": "testPass",
+        "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 80,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 4,
@@ -1605,7 +1605,7 @@
         "emitterEvent": "testPass",
         "name": "When the user inputs 5 in the first input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 43,
+        "durationMillis": 49,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 5,
@@ -1635,7 +1635,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user choose 4 from the dropdown list",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 37,
+        "durationMillis": 45,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 7,
@@ -1650,7 +1650,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user press the gobutton",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 54,
+        "durationMillis": 56,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 8,
@@ -1665,7 +1665,7 @@
         "emitterEvent": "testPass",
         "name": "Then the result 3 value is shown on the main page",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1873,
+        "durationMillis": 1888,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 9,
@@ -1683,7 +1683,7 @@
         {
           "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 218,
+          "durationMillis": 80,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 4,
@@ -1700,7 +1700,7 @@
         {
           "name": "When the user inputs 5 in the first input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 43,
+          "durationMillis": 49,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 5,
@@ -1734,230 +1734,7 @@
         {
           "name": "Then the user choose 4 from the dropdown list",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 37,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 7,
-            "column": 5
-          },
-          "progress": {
-            "step": 4,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user press the gobutton",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 54,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 8,
-            "column": 5
-          },
-          "progress": {
-            "step": 5,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the result 3 value is shown on the main page",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1873,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 9,
-            "column": 5
-          },
-          "progress": {
-            "step": 6,
-            "steps": 6
-          }
-        }
-      ]
-    ],
-    "duration": 2273
-  },
-  {
-    "description": "Action with the 2 valid input data",
-    "assertions": [
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      },
-      {
-        "passed": true
-      }
-    ],
-    "events": [
-      {
-        "emitterEvent": "testPass",
-        "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 215,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 4,
-          "column": 5
-        },
-        "progress": {
-          "step": 1,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "When the user inputs 5 in the first input field",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 46,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 5,
-          "column": 5
-        },
-        "progress": {
-          "step": 2,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user inputs 6 in the second input field",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 49,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 6,
-          "column": 5
-        },
-        "progress": {
-          "step": 3,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user choose 3 from the dropdown list",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 38,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 7,
-          "column": 5
-        },
-        "progress": {
-          "step": 4,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the user press the gobutton",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 56,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 8,
-          "column": 5
-        },
-        "progress": {
-          "step": 5,
-          "steps": 6
-        }
-      },
-      {
-        "emitterEvent": "testPass",
-        "name": "Then the result 30 value is shown on the main page",
-        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1839,
-        "sourceLocation": {
-          "filePath": "features/positive_scenario.feature",
-          "line": 9,
-          "column": 5
-        },
-        "progress": {
-          "step": 6,
-          "steps": 6
-        }
-      }
-    ],
-    "emitToTestRunner": [
-      [
-        "testPass",
-        {
-          "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 215,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 4,
-            "column": 5
-          },
-          "progress": {
-            "step": 1,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "When the user inputs 5 in the first input field",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 46,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 5,
-            "column": 5
-          },
-          "progress": {
-            "step": 2,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user inputs 6 in the second input field",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 49,
-          "sourceLocation": {
-            "filePath": "features/positive_scenario.feature",
-            "line": 6,
-            "column": 5
-          },
-          "progress": {
-            "step": 3,
-            "steps": 6
-          }
-        }
-      ],
-      [
-        "testPass",
-        {
-          "name": "Then the user choose 3 from the dropdown list",
-          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 38,
+          "durationMillis": 45,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 7,
@@ -1989,9 +1766,9 @@
       [
         "testPass",
         {
-          "name": "Then the result 30 value is shown on the main page",
+          "name": "Then the result 3 value is shown on the main page",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1839,
+          "durationMillis": 1888,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 9,
@@ -2004,7 +1781,230 @@
         }
       ]
     ],
-    "duration": 2243
+    "duration": 2165
+  },
+  {
+    "description": "Action with the 2 valid input data",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "events": [
+      {
+        "emitterEvent": "testPass",
+        "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 237,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 4,
+          "column": 5
+        },
+        "progress": {
+          "step": 1,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "When the user inputs 5 in the first input field",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 54,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 5,
+          "column": 5
+        },
+        "progress": {
+          "step": 2,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user inputs 6 in the second input field",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 48,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 6,
+          "column": 5
+        },
+        "progress": {
+          "step": 3,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user choose 3 from the dropdown list",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 40,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 7,
+          "column": 5
+        },
+        "progress": {
+          "step": 4,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the user press the gobutton",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 58,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 8,
+          "column": 5
+        },
+        "progress": {
+          "step": 5,
+          "steps": 6
+        }
+      },
+      {
+        "emitterEvent": "testPass",
+        "name": "Then the result 30 value is shown on the main page",
+        "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+        "durationMillis": 1994,
+        "sourceLocation": {
+          "filePath": "features/positive_scenario.feature",
+          "line": 9,
+          "column": 5
+        },
+        "progress": {
+          "step": 6,
+          "steps": 6
+        }
+      }
+    ],
+    "emitToTestRunner": [
+      [
+        "testPass",
+        {
+          "name": "Given the user go to \"http://juliemr.github.io/protractor-demo/\"",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 237,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 4,
+            "column": 5
+          },
+          "progress": {
+            "step": 1,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "When the user inputs 5 in the first input field",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 54,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 5,
+            "column": 5
+          },
+          "progress": {
+            "step": 2,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user inputs 6 in the second input field",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 48,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 6,
+            "column": 5
+          },
+          "progress": {
+            "step": 3,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user choose 3 from the dropdown list",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 40,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 7,
+            "column": 5
+          },
+          "progress": {
+            "step": 4,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the user press the gobutton",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 58,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 8,
+            "column": 5
+          },
+          "progress": {
+            "step": 5,
+            "steps": 6
+          }
+        }
+      ],
+      [
+        "testPass",
+        {
+          "name": "Then the result 30 value is shown on the main page",
+          "category": "Checking our calculator with valid data: Action with the 2 valid input data",
+          "durationMillis": 1994,
+          "sourceLocation": {
+            "filePath": "features/positive_scenario.feature",
+            "line": 9,
+            "column": 5
+          },
+          "progress": {
+            "step": 6,
+            "steps": 6
+          }
+        }
+      ]
+    ],
+    "duration": 2432
   },
   {
     "description": "Action with the 2 valid input data",
@@ -2051,7 +2051,7 @@
         "emitterEvent": "testPass",
         "name": "When the user inputs 10 in the first input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 45,
+        "durationMillis": 52,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 5,
@@ -2066,7 +2066,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user inputs 255 in the second input field",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 49,
+        "durationMillis": 51,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 6,
@@ -2081,7 +2081,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user choose 3 from the dropdown list",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 39,
+        "durationMillis": 41,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 7,
@@ -2096,7 +2096,7 @@
         "emitterEvent": "testPass",
         "name": "Then the user press the gobutton",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 63,
+        "durationMillis": 70,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 8,
@@ -2111,7 +2111,7 @@
         "emitterEvent": "testPass",
         "name": "Then the result 2550 value is shown on the main page",
         "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-        "durationMillis": 1876,
+        "durationMillis": 1887,
         "sourceLocation": {
           "filePath": "features/positive_scenario.feature",
           "line": 9,
@@ -2146,7 +2146,7 @@
         {
           "name": "When the user inputs 10 in the first input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 45,
+          "durationMillis": 52,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 5,
@@ -2163,7 +2163,7 @@
         {
           "name": "Then the user inputs 255 in the second input field",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 49,
+          "durationMillis": 51,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 6,
@@ -2180,7 +2180,7 @@
         {
           "name": "Then the user choose 3 from the dropdown list",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 39,
+          "durationMillis": 41,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 7,
@@ -2197,7 +2197,7 @@
         {
           "name": "Then the user press the gobutton",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 63,
+          "durationMillis": 70,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 8,
@@ -2214,7 +2214,7 @@
         {
           "name": "Then the result 2550 value is shown on the main page",
           "category": "Checking our calculator with valid data: Action with the 2 valid input data",
-          "durationMillis": 1876,
+          "durationMillis": 1887,
           "sourceLocation": {
             "filePath": "features/positive_scenario.feature",
             "line": 9,
@@ -2227,6 +2227,6 @@
         }
       ]
     ],
-    "duration": 2155
+    "duration": 2184
   }
 ]
